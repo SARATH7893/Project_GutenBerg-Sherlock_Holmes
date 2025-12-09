@@ -6,7 +6,7 @@
 * [Data Loading](#data-loading)
 * [Regular Expression Pattern Extraction](#regular-expression-pattern-extraction)
 * [Text Statistics With Numpy](#text-statistics-with-numpy)
-* [Data Visualization With Matplotlib](#data-visualization-with-matplotlib)
+* [Data Visualization Using Matplotlib](#data-visualization-using-matplotlib)
 * [Pandas Data Analysis](#pandas-data-analysis)
 
 ## Data Loading
